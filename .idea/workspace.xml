@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fabfbcfa-ef03-4891-81b5-f550019f15d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-stringp-processing-exercises/.~lock.08.PHP-Fundamentals-Strings_and_Text_Processing-Exercise.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,29 +47,29 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.Multiply-big-number.php">
-    <configuration name="String-explosion.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/phpprojects/php-stringp-processing-exercises/String-explosion.php" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="PHP Script.Match-Numbers.php">
+    <configuration name="Match-Dates.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-Dates.php">
       <method v="2" />
     </configuration>
-    <configuration name="Caesar-cipher.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-stringp-processing-exercises/Caesar-cipher.php">
+    <configuration name="Match-Numbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-Numbers.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Match-Phone-Number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-Phone-Number.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Match-full-names.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-full-names.php">
       <method v="2" />
     </configuration>
     <configuration name="Multiply-big-number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-stringp-processing-exercises/Multiply-big-number.php">
       <method v="2" />
     </configuration>
-    <configuration name="Replace-repeating-chars.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-stringp-processing-exercises/Replace-repeating-chars.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="String-explosion.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-stringp-processing-exercises/String-explosion.php">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Match-Numbers.php" />
+        <item itemvalue="PHP Script.Match-Dates.php" />
+        <item itemvalue="PHP Script.Match-Phone-Number.php" />
+        <item itemvalue="PHP Script.Match-full-names.php" />
         <item itemvalue="PHP Script.Multiply-big-number.php" />
-        <item itemvalue="PHP Script.String-explosion.php" />
-        <item itemvalue="JavaScript Debug.String-explosion.php" />
-        <item itemvalue="PHP Script.Replace-repeating-chars.php" />
-        <item itemvalue="PHP Script.Caesar-cipher.php" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +90,7 @@
       <workItem from="1633945484894" duration="56000" />
       <workItem from="1633945988115" duration="3626000" />
       <workItem from="1633949639902" duration="928000" />
-      <workItem from="1633950590507" duration="16183000" />
+      <workItem from="1633950590507" duration="22110000" />
     </task>
     <servers />
   </component>
