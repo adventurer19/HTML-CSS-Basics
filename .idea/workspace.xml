@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fabfbcfa-ef03-4891-81b5-f550019f15d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-stringp-processing-exercises/.~lock.08.PHP-Fundamentals-Strings_and_Text_Processing-Exercise.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1zHXMkYmgrKccpnKywJ2mWEBN2r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,29 +47,29 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.Match-Numbers.php">
-    <configuration name="Match-Dates.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-Dates.php">
+  <component name="RunManager" selected="PHP Script.SoftUniBarIncome.php">
+    <configuration name="SoftUniBarIncome.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/phpprojects/Regular-Expressions-Exercises/SoftUniBarIncome.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Match-Numbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-Numbers.php">
+    <configuration name="ExtractEmails.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/ExtractEmails.php">
       <method v="2" />
     </configuration>
-    <configuration name="Match-Phone-Number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-Phone-Number.php">
+    <configuration name="Furniture.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/Furniture.php">
       <method v="2" />
     </configuration>
-    <configuration name="Match-full-names.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Regular-Expressions/Match-full-names.php">
+    <configuration name="Race.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/Race.php">
       <method v="2" />
     </configuration>
-    <configuration name="Multiply-big-number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-stringp-processing-exercises/Multiply-big-number.php">
+    <configuration name="SoftUniBarIncome.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/SoftUniBarIncome.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.Match-Numbers.php" />
-        <item itemvalue="PHP Script.Match-Dates.php" />
-        <item itemvalue="PHP Script.Match-Phone-Number.php" />
-        <item itemvalue="PHP Script.Match-full-names.php" />
-        <item itemvalue="PHP Script.Multiply-big-number.php" />
+        <item itemvalue="PHP Script.SoftUniBarIncome.php" />
+        <item itemvalue="JavaScript Debug.SoftUniBarIncome.php" />
+        <item itemvalue="PHP Script.Race.php" />
+        <item itemvalue="PHP Script.Furniture.php" />
+        <item itemvalue="PHP Script.ExtractEmails.php" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +90,7 @@
       <workItem from="1633945484894" duration="56000" />
       <workItem from="1633945988115" duration="3626000" />
       <workItem from="1633949639902" duration="928000" />
-      <workItem from="1633950590507" duration="22110000" />
+      <workItem from="1633950590507" duration="39143000" />
     </task>
     <servers />
   </component>
@@ -128,6 +128,21 @@
           <url>file://$PROJECT_DIR$/php-stringp-processing-exercises/String-explosion.php</url>
           <line>13</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Regular-Expressions-Exercises/Furniture.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Regular-Expressions-Exercises/Race.php</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Regular-Expressions-Exercises/SoftUniBarIncome.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
