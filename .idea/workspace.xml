@@ -44,32 +44,32 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.SoftUniBarIncome.php">
-    <configuration name="SoftUniBarIncome.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/phpprojects/Regular-Expressions-Exercises/SoftUniBarIncome.php" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="PHP Script.Max-Sequence-of-Increasing-Elements.php">
+    <configuration name="Max-Sequence-Equal-Elements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Advance-Syntax/Max-Sequence-Equal-Elements.php">
       <method v="2" />
     </configuration>
-    <configuration name="ExtractEmails.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/ExtractEmails.php">
+    <configuration name="Max-Sequence-of-Increasing-Elements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Advance-Syntax/Max-Sequence-of-Increasing-Elements.php">
       <method v="2" />
     </configuration>
-    <configuration name="Furniture.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/Furniture.php">
+    <configuration name="Most-Fre-Number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Advance-Syntax/Most-Fre-Number.php">
       <method v="2" />
     </configuration>
-    <configuration name="Race.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/Race.php">
+    <configuration name="Reverse-An-Array-Strings.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Advance-Syntax/Reverse-An-Array-Strings.php">
       <method v="2" />
     </configuration>
-    <configuration name="SoftUniBarIncome.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Regular-Expressions-Exercises/SoftUniBarIncome.php">
+    <configuration name="Sum-Of-Reverse-Numbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-Advance-Syntax/Sum-Of-Reverse-Numbers.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.SoftUniBarIncome.php" />
-        <item itemvalue="JavaScript Debug.SoftUniBarIncome.php" />
-        <item itemvalue="PHP Script.Race.php" />
-        <item itemvalue="PHP Script.Furniture.php" />
-        <item itemvalue="PHP Script.ExtractEmails.php" />
+        <item itemvalue="PHP Script.Max-Sequence-of-Increasing-Elements.php" />
+        <item itemvalue="PHP Script.Max-Sequence-Equal-Elements.php" />
+        <item itemvalue="PHP Script.Most-Fre-Number.php" />
+        <item itemvalue="PHP Script.Sum-Of-Reverse-Numbers.php" />
+        <item itemvalue="PHP Script.Reverse-An-Array-Strings.php" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +90,7 @@
       <workItem from="1633945484894" duration="56000" />
       <workItem from="1633945988115" duration="3626000" />
       <workItem from="1633949639902" duration="928000" />
-      <workItem from="1633950590507" duration="39143000" />
+      <workItem from="1633950590507" duration="52068000" />
     </task>
     <servers />
   </component>
@@ -143,6 +143,21 @@
           <url>file://$PROJECT_DIR$/Regular-Expressions-Exercises/SoftUniBarIncome.php</url>
           <line>14</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php-Advance-Syntax/Sum-Of-Reverse-Numbers.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php-Advance-Syntax/Max-Sequence-Equal-Elements.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php-Advance-Syntax/Max-Sequence-of-Increasing-Elements.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
