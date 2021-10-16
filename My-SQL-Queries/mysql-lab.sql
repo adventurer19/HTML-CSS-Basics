@@ -112,4 +112,96 @@ select country_name,country_code,IF(currency_code ='EUR','Euro','Not Euro') as C
 order by country_name;
 
 
+use gringotts;
+
+select count(id) from wizzard_deposits;
+
+
+select max(magic_wand_size) as longest_magic_wand
+from wizzard_deposits;
+
+select distinct deposit_group,magic_wand_size as longest_magic_wand
+from wizzard_deposits
+order by longest_magic_wand desc,deposit_group;
+
+
+select deposit_group,MAX(magic_wand_size) as longest_magic_wand from wizzard_deposits
+group by deposit_group
+order by longest_magic_wand,deposit_group;
+
+
+select deposit_group from wizzard_deposits
+group by deposit_group
+order by avg(magic_wand_size)
+limit 1;
+
+select deposit_group,sum(deposit_amount) as total_sum from wizzard_deposits
+group by deposit_group
+order by total_sum;
+
+
+select count(category_id) from products
+where category_id = 2 and price >8;
+
+select
+       category_id,
+       round(AVG(price),2) as `Average Price`,
+       round(MIN(price),2)as `Cheapest Product` ,
+       round(MAX(price),2)as `Most Expensive Product`
+from
+     products
+group by
+         category_id;
+
+
+use soft_uni;
+
+select e.employee_id,e.job_title,e.address_id,a.address_text from employees as e
+join addresses as a on e.address_id = a.address_id
+order by    e.address_id
+limit 5;
+
+
+select employee_id,first_name,salary,depa.name  from employees as emp
+join departments as depa on emp.department_id = depa.department_id
+where salary>15000
+order by emp.department_id desc
+limit   5;
+
+
+
+select
+    employee_id,
+    first_name
+from employees as emp
+right join projects as pro on emp.employee_id=pro.project_id;
+
+select *
+from employees;
+
+select *
+from projects;
+
+select e.employee_id,e.first_name
+from
+     employees as e
+left join
+         employees_projects as p on e.employee_id=p.employee_id
+where  p.project_id is null
+order by e.employee_id desc
+limit 3;
+
+select e.employee_id,e.first_name,if(p2.start_date>=2005-00-00,null,p2.name)as project_name from employees as e
+join employees_projects as p on e.employee_id=p.employee_id
+left join projects as p2 on p.project_id=p2.project_id
+where e.employee_id = 24
+order by p2.name;
+
+select * from employees;
+select * from departments;
+
+
+select first_name from employees as x
+join departments as y on x.manager_id = y.manager_id
+where x.employee_id =3 or x.employee_id=7;
 
